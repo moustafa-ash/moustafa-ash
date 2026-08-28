@@ -65,10 +65,3 @@ My technical progression reflects a shift from understanding core principles to 
 | **[Enterprise AI Customer Support Router](https://github.com/moustafa-ash/customer-complains-classification-nti-final)** | An end-to-end, hallucination-free AI routing system for B2B enterprise customer support. Built as the Lead Architect, I designed a hybrid ML architecture using a lightweight SVM (LinearSVC) for fast initial intent classification to cut token costs. High-confidence predictions then trigger a strictly constrained RAG process via the Groq API (Qwen 3.8-27b) to generate deterministic JSON responses through a Streamlit UI. | `Python`, `Scikit-learn`, `Groq API (Qwen)`, `Streamlit`, `RAG` | [GitHub](https://github.com/moustafa-ash/customer-complains-classification-nti-final) |
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moustafa-ash&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=333333" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafa-ash&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=333333" height="150" alt="Top Languages" />
-</div>
