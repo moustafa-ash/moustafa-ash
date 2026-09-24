@@ -2,7 +2,7 @@
 
 **Aspiring AI Engineer · Applied ML · Backend APIs**
 
-I’m interested in AI systems that connect models, retrieval, and software workflows with clear evaluation and human review boundaries. My current focus includes automation and agent workflows.
+I’m interested in AI systems that connect models, retrieval, and software workflows with clear evaluation and human review boundaries. I’m especially interested in automation and agent workflows.
 
 ## Selected projects
 
