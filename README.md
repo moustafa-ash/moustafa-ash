@@ -50,6 +50,8 @@ B.Sc. Computer and Communication Engineering, Alexandria National University (20
 
 ## GitHub Activity
 
+[![GitHub contribution stats](https://github-readme-streak-stats.herokuapp.com/?user=moustafa-ash&theme=default)](https://github.com/moustafa-ash)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moustafa-ash/moustafa-ash/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moustafa-ash/moustafa-ash/output/github-contribution-grid-snake.svg" />
