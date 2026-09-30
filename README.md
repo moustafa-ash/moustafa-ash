@@ -2,7 +2,7 @@
 
 **AI Engineer | Applied ML and LLM Systems · Backend APIs · Automation**
 
-![Typing animation cycling through AI systems, machine learning, and backend APIs](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1400&color=2563EB&width=620&lines=Applied+ML+and+LLM+systems;Backend+APIs+for+AI+applications;AI+automation+workflows)
+[![Turning AI ideas into working software. Explore my projects and let's connect.](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1400&color=2563EB&width=620&lines=Turning+AI+ideas+into+working+software.;Explore+my+projects+and+let%27s+connect.)](https://moustafa-sandy.vercel.app)
 
 Computer and Communication Engineering undergraduate at Alexandria National University. I build applied AI projects that connect machine learning or LLM integrations with software interfaces and backend services.
 
@@ -16,7 +16,7 @@ A course team project that classifies consumer complaints with TF-IDF and a cali
 
 ### FlyRank Image-Relevance Engine
 
-An accepted internship capstone API that tags images, embeds image descriptions and article text, ranks candidate matches, and flags mismatches. Live model evaluation and measured matching quality remain pending.
+An accepted internship capstone API that tags images, embeds image descriptions and article text, ranks candidate matches, and flags mismatches. The repository documents fixture-backed API and worker checks; live model evaluation and measured matching quality remain pending.
 
 [![Open FlyRank capstone repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moustafa-ash/flyrank-capstone-image-relevance)
 
