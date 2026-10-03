@@ -14,6 +14,12 @@ A course team project that classifies consumer complaints with TF-IDF and a cali
 
 [![Open Customer Support Router repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moustafa-ash/customer-complains-classification-nti-final)
 
+### Personal AI Assistance
+
+A bilingual n8n personal assistant built as a DEPI course project. It connects task and preference storage in Google Sheets with Gmail, Google Calendar, OpenRouter, and Tavily. Owner checks protect personal tools, while native approval gates control email and Calendar changes. Scheduled agendas and requested reminders are delivered through Gmail and logged. Live checks are reported in the project README; the workflow is single-owner and delivery is not exactly once.
+
+[![Open Personal AI Assistance](https://img.shields.io/badge/Project-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/moustafa-ash/personal-Ai-Assistance)
+
 ### FlyRank Image-Relevance Engine
 
 An accepted internship capstone API that tags images, embeds image descriptions and article text, ranks candidate matches, and flags mismatches. The repository documents fixture-backed API and worker checks; live model evaluation and measured matching quality remain pending.
